@@ -1,2 +1,3 @@
 # CodeChefCodes
-Competitive coding questions solved 
+Competitive coding questions conducted by **CodeChef**
+Solved in **Java**
